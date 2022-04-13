@@ -1,0 +1,1 @@
+# Deployment python script with Qt using cxfreeze
