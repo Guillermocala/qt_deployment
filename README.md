@@ -1,5 +1,3 @@
-# The executable are in the build folder [Just here](https://github.com/Guillermocala/qt_deployment/tree/master/build/exe.win-amd64-3.10)
-
-## Qt for Python Deployment  [Tools](https://doc.qt.io/qtforpython/deployment.html)
-
-## Cx_Freeze documentation [Here](https://cx-freeze.readthedocs.io/en/latest/index.html)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0595d4b319bd38e99bf7d732b1378065b4c35ad12cb8f475b67886ff5595d9e0
+size 318
